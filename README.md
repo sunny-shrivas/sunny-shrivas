@@ -34,7 +34,7 @@ AI Engineer focused on **Generative AI, LLM applications, RAG, and multi-agent s
 ![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=00D9FF)
 ![Linux](https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=00D9FF)
 
-## / SELECTED WORK
+## /  WORK
 
 | Project | What it explores |
 |---|---|
