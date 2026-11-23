@@ -71,7 +71,7 @@ AI Engineer focused on **Generative AI, LLM applications, RAG, and multi-agent s
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0B1220?style=for-the-badge&logo=llamaindex&logoColor=00D9FF)
 ![Docker](https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=00D9FF)
 
-## / SELECTED PROJECTS
+## /  PROJECTS
 
 | Project | Impact & engineering focus |
 |---|---|
