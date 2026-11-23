@@ -64,7 +64,7 @@ Built **TraceWise AI**, an AI-driven engineering design-change impact analysis p
 I'm interested in building useful AI products, collaborating on engineering challenges, and connecting with people working on applied AI.
 
 - **GitHub:** [@sunny-shrivas](https://github.com/sunny-shrivas)
-- **LinkedIn:** [Add your LinkedIn profile](https://www.linkedin.com/)
+- **LinkedIn:** [Add your LinkedIn profile](www.linkedin.com/in/sunny-shrivas-ss5ss0805)
 
 ---
 
