@@ -63,6 +63,14 @@ AI Engineer focused on **Generative AI, LLM applications, RAG, and multi-agent s
 ![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=00D9FF)
 ![Linux](https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=00D9FF)
 
+
+**Currently Exploring**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-0B1220?style=for-the-badge&logo=langchain&logoColor=00D9FF)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-0B1220?style=for-the-badge&logo=huggingface&logoColor=00D9FF)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0B1220?style=for-the-badge&logo=llamaindex&logoColor=00D9FF)
+![Docker](https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=00D9FF)
+
 ## /  WORK
 
 | Project | What it explores |
