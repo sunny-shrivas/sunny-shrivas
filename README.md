@@ -71,15 +71,16 @@ AI Engineer focused on **Generative AI, LLM applications, RAG, and multi-agent s
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0B1220?style=for-the-badge&logo=llamaindex&logoColor=00D9FF)
 ![Docker](https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=00D9FF)
 
-## /  WORK
+## / SELECTED PROJECTS
 
-| Project | What it explores |
+| Project | Impact & engineering focus |
 |---|---|
-| [Multi-Account Multi-Agent Orchestrator](https://github.com/sunny-shrivas/multi-account-multi-agent-orchestrator) | Coordinating AI workers with dependency-aware scheduling, isolated workspaces, verification gates, retries, and delivery reporting. |
-| [AI Robot Fleet Coordinator](https://github.com/sunny-shrivas/ai-robot-fleet-coordinator) | Multi-agent mission allocation, path-planning concepts, battery intelligence, and AMR fleet coordination. |
-| [AI Data Analyst Agent](https://github.com/sunny-shrivas/ai-data-analyst-agent) | An AI-agent project exploring data analysis workflows. |
-| [Task Automation Tracker](https://github.com/sunny-shrivas/Task-Automation-Tracker) | Excel-based task tracking with automated email reminders until tasks are closed. |
-| [Voice Assistant](https://github.com/sunny-shrivas/Voice-assistant) | A Python voice-assistant project. |
+| **TraceWise AI — Engineering Change Impact Analyzer** | **2nd Runner-Up, LTTS Global OpenHack 2026.** Multi-agent platform that analyzes engineering design changes and traces potentially impacted artifacts, teams, and risks using Python, Gemini, Streamlit, and knowledge-graph concepts. |
+| **Field Service Multi-Agent Assistant** | Enterprise knowledge-assistance solution built with Microsoft Copilot Studio. A central orchestrator coordinates specialist agents for technical publications, lessons learned, and technical support knowledge, helping users find relevant service information. Description intentionally excludes internal and confidential details. |
+| [Multi-Account Multi-Agent Orchestrator](https://github.com/sunny-shrivas/multi-account-multi-agent-orchestrator) | Python prototype for coordinating AI workers with dependency-aware scheduling, parallel execution, isolated workspaces, verification gates, retries, and delivery reporting. |
+| [AI Robot Fleet Coordinator](https://github.com/sunny-shrivas/ai-robot-fleet-coordinator) | CrewAI-based multi-agent simulation for robot mission allocation, navigation planning, battery-aware decisions, and fleet coordination. |
+| [AI Data Analyst Agent](https://github.com/sunny-shrivas/ai-data-analyst-agent) | AI-agent project exploring data analysis workflows. |
+
 
 ## / RECOGNITION
 
