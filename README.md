@@ -23,14 +23,43 @@ AI Engineer focused on **Generative AI, LLM applications, RAG, and multi-agent s
 - **Also exploring:** Knowledge graphs, evaluation, reliable AI workflows, and intelligent automation
 - **Based in:** Pune, India
 
-## / TECH STACK
+## / AI & ENGINEERING STACK
+
+**LLMs & Generative AI**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-0B1220?style=for-the-badge&logo=openai&logoColor=00D9FF)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-0B1220?style=for-the-badge&logo=googlegemini&logoColor=00D9FF)
+![LLM Applications](https://img.shields.io/badge/LLM_Applications-0B1220?style=for-the-badge&logo=probot&logoColor=00D9FF)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0B1220?style=for-the-badge&logo=sparkles&logoColor=00D9FF)
+
+**Agentic AI & Orchestration**
+
+![LangChain](https://img.shields.io/badge/LangChain-0B1220?style=for-the-badge&logo=chainlink&logoColor=00D9FF)
+![CrewAI](https://img.shields.io/badge/CrewAI-0B1220?style=for-the-badge&logo=robot&logoColor=00D9FF)
+![Multi Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-0B1220?style=for-the-badge&logo=probot&logoColor=00D9FF)
+![Microsoft Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0B1220?style=for-the-badge&logo=microsoftcopilot&logoColor=00D9FF)
+
+**RAG, Retrieval & Knowledge Systems**
+
+![RAG](https://img.shields.io/badge/Retrieval--Augmented_Generation-0B1220?style=for-the-badge&logo=readthedocs&logoColor=00D9FF)
+![Embeddings](https://img.shields.io/badge/Embeddings-0B1220?style=for-the-badge&logo=databricks&logoColor=00D9FF)
+![Vector Search](https://img.shields.io/badge/Vector_Search-0B1220?style=for-the-badge&logo=pinecone&logoColor=00D9FF)
+![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-0B1220?style=for-the-badge&logo=neo4j&logoColor=00D9FF)
+![NetworkX](https://img.shields.io/badge/NetworkX-0B1220?style=for-the-badge&logo=diagramsdotnet&logoColor=00D9FF)
+
+**AI Quality & Engineering**
+
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-0B1220?style=for-the-badge&logo=checkmarx&logoColor=00D9FF)
+![AI Guardrails](https://img.shields.io/badge/AI_Guardrails-0B1220?style=for-the-badge&logo=shield&logoColor=00D9FF)
+![Pytest](https://img.shields.io/badge/Pytest-0B1220?style=for-the-badge&logo=pytest&logoColor=00D9FF)
+![Pydantic](https://img.shields.io/badge/Pydantic-0B1220?style=for-the-badge&logo=pydantic&logoColor=00D9FF)
+
+**Development & APIs**
 
 ![Python](https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=00D9FF)
-![Generative AI](https://img.shields.io/badge/Generative_AI-0B1220?style=for-the-badge&logo=openai&logoColor=00D9FF)
-![LangChain](https://img.shields.io/badge/LangChain-0B1220?style=for-the-badge&logo=chainlink&logoColor=00D9FF)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0B1220?style=for-the-badge&logo=fastapi&logoColor=00D9FF)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0B1220?style=for-the-badge&logo=streamlit&logoColor=00D9FF)
-![NetworkX](https://img.shields.io/badge/NetworkX-0B1220?style=for-the-badge&logo=diagramsdotnet&logoColor=00D9FF)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0B1220?style=for-the-badge&logo=fastapi&logoColor=00D9FF)
 ![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=00D9FF)
 ![Linux](https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=00D9FF)
 
